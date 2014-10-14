@@ -1,0 +1,198 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arwyn\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-06-23 03:07+0200\n"
+"PO-Revision-Date: 2014-06-23 03:07+0200\n"
+"Last-Translator: Cristi Macovei <cristi@teothemes.com>\n"
+"Language-Team: Cristi Macovei <cristi@teothemes.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;esc_attr;esc_attr_e;esc_attr__;__;esc_html;"
+"esc_html_e;esc_html__;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../archive.php:7 ../archive.php:10 ../archive.php:13
+msgid "Posts in"
+msgstr ""
+
+#: ../archive.php:16
+msgid "Posts tagged &quot;"
+msgstr ""
+
+#: ../archive.php:19
+msgid "Search results for"
+msgstr ""
+
+#: ../author.php:36
+#, php-format
+msgid "%d posts"
+msgstr ""
+
+#: ../category.php:26
+#, php-format
+msgid "%s posts"
+msgstr ""
+
+#: ../comments.php:4
+msgid "Please do not load this page directly. Thanks!"
+msgstr ""
+
+#: ../comments.php:8
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:23
+msgid "1 comment"
+msgstr ""
+
+#: ../comments.php:29 ../comments.php:42
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: ../comments.php:30 ../comments.php:43
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../comments.php:58
+msgid "comments"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:73
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:95 ../comments.php:103
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:99
+msgid "E-mail"
+msgstr ""
+
+#: ../comments.php:112
+msgid "Submit Comment"
+msgstr ""
+
+#: ../comments.php:112
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:112
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../content-layout2.php:36 ../index.php:65 ../page-template-home2.php:74
+#: ../page-template-home3.php:63 ../page-template-home3.php:111
+#: ../single.php:112
+msgid "by"
+msgstr ""
+
+#: ../content-layout2.php:65 ../infinitescroll-template-2.php:34
+#: ../single.php:169 ../single.php:202
+msgid "Share"
+msgstr ""
+
+#: ../content-layout2.php:73 ../infinitescroll-template-2.php:42
+#: ../single.php:178 ../single.php:211
+msgid "Check this great post"
+msgstr ""
+
+#: ../functions.php:162
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../page-template-home1.php:138
+msgid "View"
+msgstr ""
+
+#: ../page.php:35 ../single.php:189
+msgid "Pages"
+msgstr ""
+
+#: ../search.php:3
+#, php-format
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: ../searchform.php:2
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: ../single.php:148
+msgid "Previous"
+msgstr ""
+
+#: ../single.php:149
+msgid "Next"
+msgstr ""
+
+#: ../single.php:192
+msgid "Tags:"
+msgstr ""
+
+#: ../single.php:236
+msgid "Related news"
+msgstr ""
+
+#: ../single.php:285 ../lib/widgets.php:109
+msgid "ago"
+msgstr ""
+
+#: ../tag.php:3
+#, php-format
+msgid "Posts tagged &quot;%s&quot;"
+msgstr ""
+
+#: ../lib/comment.php:18
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../lib/comment.php:26
+msgid "Reply"
+msgstr ""
+
+#: ../lib/comment.php:30
+msgid "Edit"
+msgstr ""
+
+#: ../lib/meta_boxes.php:135
+msgid "Show sidebar on post page?"
+msgstr ""
+
+#: ../lib/meta_boxes.php:136
+msgid "Here you can disable the sidebar and make the post full width"
+msgstr ""
+
+#: ../lib/meta_boxes.php:140
+msgid "Full Width"
+msgstr ""
+
+#: ../lib/meta_boxes.php:141
+msgid "With Sidebar"
+msgstr ""
+
+#: ../lib/widgets.php:213
+#, php-format
+msgid "Follow %s"
+msgstr ""
+
+#~ msgid ""
+#~ "Apologies, but the page you requested could not be found. Perhaps "
+#~ "searching will help."
+#~ msgstr "Sorry"
